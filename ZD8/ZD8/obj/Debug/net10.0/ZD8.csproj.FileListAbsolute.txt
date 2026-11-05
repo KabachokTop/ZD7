@@ -1,0 +1,15 @@
+D:\Rob_material\C#\ZD8\ZD8\bin\Debug\net10.0\ZD8.exe
+D:\Rob_material\C#\ZD8\ZD8\bin\Debug\net10.0\ZD8.deps.json
+D:\Rob_material\C#\ZD8\ZD8\bin\Debug\net10.0\ZD8.runtimeconfig.json
+D:\Rob_material\C#\ZD8\ZD8\bin\Debug\net10.0\ZD8.dll
+D:\Rob_material\C#\ZD8\ZD8\bin\Debug\net10.0\ZD8.pdb
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.AssemblyInfoInputs.cache
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.AssemblyInfo.cs
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.csproj.CoreCompileInputs.cache
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.dll
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\refint\ZD8.dll
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.pdb
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.genruntimeconfig.cache
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ref\ZD8.dll
+D:\Rob_material\C#\ZD8\ZD8\obj\Debug\net10.0\ZD8.csproj.Up2Date
